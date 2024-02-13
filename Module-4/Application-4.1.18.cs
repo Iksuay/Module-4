@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*
+using System;
 
 namespace Module_4
 {
@@ -37,9 +38,10 @@ namespace Module_4
                     Console.BackgroundColor = ConsoleColor.Yellow;
                     Console.ForegroundColor = ConsoleColor.Red;
 
-                    Console.WriteLine("Your color is cyan!");
+                    Console.WriteLine("Your color is yellow!");
                     break;
             }
         }
     }
 }
+*/
