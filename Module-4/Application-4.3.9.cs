@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*
+using System;
 
 class MainClass
 {
@@ -12,3 +13,4 @@ class MainClass
         }
     }
 }
+*/
