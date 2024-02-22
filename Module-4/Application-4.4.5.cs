@@ -16,8 +16,6 @@ namespace Module_4
             Console.Write("Сколько лет вашему питомцу: ");
             Pet.Age = Convert.ToInt32(Console.ReadLine());
 
-            Pet.NameCount = 0;
-
             Pet.NameCount = Pet.Name.Length;
 
             Console.Write("Длина имени питомца: {0}", Pet.NameCount);
